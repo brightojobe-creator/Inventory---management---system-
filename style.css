@@ -1,0 +1,5 @@
+body { background: #f6f7fb; }
+.stat { padding: 18px; min-height: 100px; }
+.stat span { display:block; color:#6c757d; }
+.stat strong { font-size: 2rem; }
+.low-stock { font-weight: 700; }
