@@ -1,7 +1,7 @@
 # Supermarket Inventory Management System
 
-**Student Name:** OJOBE BRIGHT NUMBER 
-**Matric Number:** 24/CSC/237  
+**Student Name:** YOUR NAME  
+**Matric Number:** YOUR MATRIC NUMBER  
 **Assigned Inventory Type:** Supermarket  
 **Project:** Software Engineering Industrial Training (SE-IT)
 
